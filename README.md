@@ -29,10 +29,6 @@ An intelligent AI-powered assistant that performs **contextual web scraping** or
 - Scrapes multiple sources, structures the data into a table format.
 - Allows exporting results in **CSV**, **JSON**, or **PDF** formats.
 
-### 📰 AI News Summarizer
-- Fetches and summarizes the latest AI news based on time filters (week, month, year).
-- Provides downloadable summaries in **PDF**, **Text**, or **Markdown**.
-
 ---
 
 ## 🧩 Tech Stack
